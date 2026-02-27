@@ -12,13 +12,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](xzyyyyyyyy)
-
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/MR-VISHNU24/customer_behavior_data_analysis.git
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
